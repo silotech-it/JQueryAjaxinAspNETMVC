@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQueryAjaxinAspNETMVC", "JQueryAjaxinAspNETMVC\JQueryAjaxinAspNETMVC.csproj", "{0FBAFCBA-2FAB-4DEE-A748-E54F3C6F648C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQueryAjaxinAspNETMVC.Tests", "JQueryAjaxinAspNETMVC.Tests\JQueryAjaxinAspNETMVC.Tests.csproj", "{3ABF6797-24BA-4163-A1CB-BC2F7FD382BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBAFCBA-2FAB-4DEE-A748-E54F3C6F648C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBAFCBA-2FAB-4DEE-A748-E54F3C6F648C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBAFCBA-2FAB-4DEE-A748-E54F3C6F648C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBAFCBA-2FAB-4DEE-A748-E54F3C6F648C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABF6797-24BA-4163-A1CB-BC2F7FD382BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABF6797-24BA-4163-A1CB-BC2F7FD382BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABF6797-24BA-4163-A1CB-BC2F7FD382BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABF6797-24BA-4163-A1CB-BC2F7FD382BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E9D974-61CC-406D-B1C5-131146A923CD}
+	EndGlobalSection
+EndGlobal
